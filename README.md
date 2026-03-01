@@ -157,9 +157,9 @@ Designing decision-support dashboards
 👤 Author
 
 Mohamed Salah Abdelhamid
-Data Analyst | Business Intelligence Enthusiast
+Data Analyst 
 
-📍 Egypt
+
 🔗 LinkedIn: https://www.linkedin.com/in/mohamedsalah-abdelhamid/
 
 🔗 GitHub: https://github.com/mohamedalahabdelhamid
