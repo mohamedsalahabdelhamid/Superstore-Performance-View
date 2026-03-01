@@ -115,14 +115,23 @@ Shipping delays correlated with lower customer segment performance
 🎯 Skills Demonstrated (Data Analyst Focus)
 
 ✔ ETL Process Implementation
+
 ✔ Data Cleaning & Transformation
+
 ✔ Relational Data Modeling
+
 ✔ Star Schema Design
+
 ✔ DAX Calculations
+
 ✔ KPI Development
+
 ✔ Business Insight Extraction
+
 ✔ Dashboard Storytelling
+
 ✔ Analytical Thinking
+
 ✔ Performance Optimization
 
 📂 Repository Structure
@@ -152,4 +161,5 @@ Data Analyst | Business Intelligence Enthusiast
 
 📍 Egypt
 🔗 LinkedIn: https://www.linkedin.com/in/mohamedsalah-abdelhamid/
+
 🔗 GitHub: https://github.com/mohamedalahabdelhamid
