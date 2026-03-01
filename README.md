@@ -1,5 +1,6 @@
 🛒 Superstore Sales Analytics Dashboard
 End-to-End Data Analysis Project (Excel | Power Query | Power Pivot | DAX)
+
 📌 Project Summary
 
 This project demonstrates a complete end-to-end data analytics workflow using Microsoft Excel as a Business Intelligence tool.
@@ -27,6 +28,7 @@ Category and sub-category contribution
 The goal was to centralize KPIs and performance metrics into one interactive reporting solution.
 
 🛠 Technical Implementation
+
 🔹 1. Data Preparation – Power Query (ETL)
 
 Cleaned raw transactional dataset
@@ -66,6 +68,7 @@ Shipping Status Distribution
 Segment Contribution
 
 📊 Dashboard Highlights
+
 🔸 Executive KPI Overview
 
 Total Sales: $10.6M
@@ -162,4 +165,4 @@ Data Analyst
 
 🔗 LinkedIn: https://www.linkedin.com/in/mohamedsalah-abdelhamid/
 
-🔗 GitHub: https://github.com/mohamedalahabdelhamid
+🔗 GitHub: https://github.com/mohamedsalahabdelhamid
